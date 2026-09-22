@@ -1,0 +1,7 @@
+# Runtime libraries used by the ML model comparison notebook
+numpy>=2.0
+pandas>=2.2
+matplotlib>=3.8
+scikit-learn>=1.4
+jupyter>=1.0
+ipykernel>=6.0
